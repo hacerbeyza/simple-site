@@ -2,4 +2,4 @@
 
 This is a simple website project.
 
-GitHub Repository: [https://github.com/hacerbeyza/simple-site.git](https://github.com/hacerbeyza/simple-site.git) 
+Live Demo: [https://hacerbeyza.github.io/simple-site/](https://hacerbeyza.github.io/simple-site/) 
